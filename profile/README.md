@@ -1,5 +1,5 @@
 <div align="center"><h1>
-  This is mainly used to host archives to things I use.<br>
+  This is mainly used to host archives/forks to things I use.<br>
   My current projects are hosted at <a href="https://github.com/Roblox-Thot/">@Roblox-Thot</a>
 </h1></div>
 
